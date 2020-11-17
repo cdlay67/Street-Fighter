@@ -1,3 +1,3 @@
 # Street-Fighter
 
-https://streetfighters.netlify.app/result.html
+https://streetfighters.netlify.app/index.html
